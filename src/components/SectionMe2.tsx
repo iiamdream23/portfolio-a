@@ -16,7 +16,7 @@ const SectionMe2 = () => {
               <span className="">Developer 👽</span>
             </h1>
             <p className="md:mb-2 text-md xl:text-lg max-w-sm font-medium">
-              Hi, I'm Ik. A passionate front-end web developer from Nigeria
+              Hi, I am Ik. A passionate front-end web developer from Nigeria
             </p>
 
             {/* Icons */}

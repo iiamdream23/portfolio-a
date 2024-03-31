@@ -7,7 +7,7 @@ const MSectionContact = () => {
       <h6 className="font-extrabold mb-2 text-[11px] text-blue-600 uppercase">
         Contact
       </h6>
-      <h2 className="font-extrabold mb-2">Don't be shy! Hit me up! 👇</h2>
+      <h2 className="font-extrabold mb-2">Do not be shy! Hit me up! 👇</h2>
 
       <div className="flex gap-12 pt-12 pb-24 justify-center ml-2">
         <div className="flex items-center gap-6">

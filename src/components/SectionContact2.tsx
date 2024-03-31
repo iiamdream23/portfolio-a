@@ -8,7 +8,7 @@ const SectionContact2 = () => {
         Contact
       </h6>
       <h2 className="font-extrabold mb-12 xl:text-[20px]">
-        Don't be shy! Say Hi! 👇
+        Do not be shy! Say Hi! 👇
       </h2>
 
       <div className="flex gap-12 xl:gap-24 pt-4 pb-20 xl:pt-8 xl:pb-32 ml-2 xl:ml-8">

@@ -30,13 +30,13 @@ const MSectionAbout = () => {
             A dedicated Front-End Developer based in Nigeria
           </h2>
           <p className="text-[12.5px] font-light">
-            I'm not just fluent in Next.js, React, Typescript, and TailwindCSS;
-            I'm on a first-name basis with innovation. From responsive designs
+            I am not just fluent in Next.js, React, Typescript, and TailwindCSS. 
+            I am on a first-name basis with innovation. From responsive designs
             that dance across devices to coding wizardry that brings ideas to
             life, I thrive on turning code into captivating user experiences.
-            Let's talk about weaving magic into your web projects.
+            Let us talk about weaving magic into your web projects.
             <br />
-            I'm excited about the opportunity to bring a fresh perspective and a
+            I am excited about the opportunity to bring a fresh perspective and a
             dash of creativity to your team. Looking forward to the possibility
             of transforming pixels together.
           </p>
